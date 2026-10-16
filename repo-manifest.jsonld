@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/drms/commit/68eec28d4d17155d8e29725f29883991b6a77dbf",
       "git:hexsha": "68eec28d4d17155d8e29725f29883991b6a77dbf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/drms/commit/a3a4901073f43f5a5067df76298787420a0baf7d",
